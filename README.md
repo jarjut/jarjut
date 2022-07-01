@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter
 
-[![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/large)](https://www.codewars.com/users/jarjut)
+[![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/micro)](https://www.codewars.com/users/jarjut)
 
 <!--
 **jarjut/jarjut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
