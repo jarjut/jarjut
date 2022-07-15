@@ -4,6 +4,10 @@
 
 [![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/micro)](https://www.codewars.com/users/jarjut)
 
+<!-- ![GithubStats](https://github-readme-stats.vercel.app/api?username=jarjut&show_icons=true&theme=cobalt&count_private=true) -->
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jarjut&layout=compact&theme=cobalt)
+
+
 <!--
 **jarjut/jarjut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
