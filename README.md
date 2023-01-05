@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there I’m a mobile developer with a focus on Flutter development 👋
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and implementing clean architecture principles to create robust, scalable mobile applications.
+<!-- - My goal is to become a skilled Flutter developer who can create high-quality, reliable apps. -->
 
-[![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/micro)](https://www.codewars.com/users/jarjut)
+[![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/small)](https://www.codewars.com/users/jarjut)
 
 <!-- ![GithubStats](https://github-readme-stats.vercel.app/api?username=jarjut&show_icons=true&theme=cobalt&count_private=true) -->
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jarjut&layout=compact&theme=cobalt)
