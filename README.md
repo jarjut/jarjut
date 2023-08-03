@@ -1,6 +1,8 @@
-### Hi there I’m a mobile developer with a focus on Flutter development 👋
+### Hi there I’m a front-end developer passionate about creating remarkable user experiences. 👋
 
-- 🌱 I’m currently developing my skills in Flutter and implementing clean architecture principles to create robust and scalable applications. At the same time, my curiosity in blockchain and web3 technologies drives me to delve deeper into this field and learn more about its potential impact on various industries.
+- 💬 I specialize in Flutter and implementing clean architecture principles to create robust and scalable applications.
+- 🌱 Currently expanding my skills with React and Next.js for front-end web development
+- At the same time, my curiosity in blockchain and web3 technologies drives me to delve deeper into this field and learn more about its potential impact on various industries.
 <!-- - My goal is to become a skilled Flutter developer who can create high-quality, reliable apps. -->
 
 [![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/small)](https://www.codewars.com/users/jarjut)
