@@ -5,10 +5,12 @@
 - At the same time, my curiosity in blockchain and web3 technologies drives me to delve deeper into this field and learn more about its potential impact on various industries.
 <!-- - My goal is to become a skilled Flutter developer who can create high-quality, reliable apps. -->
 
-[![CodeWarsBadge](https://www.codewars.com/users/jarjut/badges/small)](https://www.codewars.com/users/jarjut)
+[![MonkeyType][monkeytype.badge]][monkeytype.profile]
+[![CodeWarsBadge][codewars.badge]][codewars.profile]
+
 
 <!-- ![GithubStats](https://github-readme-stats.vercel.app/api?username=jarjut&show_icons=true&theme=cobalt&count_private=true) -->
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=jarjut&layout=compact&theme=cobalt)
+![Most Used Language][mostusedlanguage.badge]
 
 
 <!--
@@ -25,3 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Link -->
+[monkeytype.badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D110wpm&style=flat-square
+[monkeytype.profile]: https://monkeytype.com/profile/jarjut
+[codewars.badge]: https://www.codewars.com/users/jarjut/badges/small
+[codewars.profile]: https://www.codewars.com/users/jarjut
+[mostusedlanguage.badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=jarjut&layout=compact&theme=cobalt
