@@ -1,8 +1,9 @@
 ### Hi there I’m a front-end developer passionate about creating remarkable user experiences. 👋
 
 - 💬 I specialize in Flutter and implementing clean architecture principles to create robust and scalable applications.
-- 🌱 Currently expanding my skills with React and Next.js for front-end web development
-- At the same time, my curiosity in blockchain and web3 technologies drives me to delve deeper into this field and learn more about its potential impact on various industries.
+- 🌟 Skilled in React and Next.js for front-end web development.
+- 🌱 Currently diving into blockchain technology, learning how it works, and exploring the creation of smart contracts.
+
 <!-- - My goal is to become a skilled Flutter developer who can create high-quality, reliable apps. -->
 
 [![MonkeyType][monkeytype.badge]][monkeytype.profile]
