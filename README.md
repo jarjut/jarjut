@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Link -->
-[monkeytype.badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D110wpm&style=flat-square
+[monkeytype.badge]: https://img.shields.io/badge/monkeytype-100%2B%20wpm-yellow?style=flat-square&logo=monkeytype
 [monkeytype.profile]: https://monkeytype.com/profile/jarjut
 [codewars.badge]: https://www.codewars.com/users/jarjut/badges/small
 [codewars.profile]: https://www.codewars.com/users/jarjut
